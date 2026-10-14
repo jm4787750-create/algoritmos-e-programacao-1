@@ -19,4 +19,4 @@ java exercicio1
 
 ## Origem
 
-Esta é uma cópia autorizada do repositório [Algoritmos-e-Programa-o-1](https://github.com/Vivianefelizardo/Algoritmos-e-Programa-o-1), mantida por Jorge Miguel Calixto para organizar os exercícios no GitHub. A referência à origem e o histórico original do fork foram preservados.
+Esta é uma cópia autorizada do repositório [Algoritmos-e-Programa-o-1](https://github.com/Vivianefelizardo/Algoritmos-e-Programa-o-1), mantida por Jorge Miguel Calixto da Silva para organizar os exercícios no GitHub. A referência à origem e o histórico original do fork foram preservados.
